@@ -1,7 +1,5 @@
-## Hi there 👋
 
---
-**Swastik0407/Swastik0407** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Swastik0407/Swastik0407** README.md.
      ![image alt](https://github.com/Swastik0407/Swastik0407/blob/cdc0985de5205223f5441608c8d0cfcf29c6049e/68747470733a2f2f6d65646961312e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a457865484179616d707a5957466a656d45776447526d62474a75646d4e6f64544a724e7a56774d4852794e6e64715a54457a4e57347a4d435a6c.gif)
                                                         
  Hi there, I am Swastik Saha 👋
