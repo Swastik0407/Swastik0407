@@ -24,7 +24,7 @@
       🎯 Goal: Build a career in AI/ML field and create solutions that matter
     </td>
     <td>
-      <img src="your-image.png" width="300"/>
+      <img src="" width="300"/>
     </td>
   </tr>
 </table>
