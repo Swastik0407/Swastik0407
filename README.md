@@ -22,6 +22,10 @@
 📚 Love experimenting with projects and open-source contributions
 
 🎯 Goal: Build a career in AI/ML field and create solutions that matter 
+<p align="right">
+  <img src="https://camo.githubusercontent.com/4494f9f5cba343c147c9bb009bc4556a43cc4326504cdf0d4c035a4d2ddbc212/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f68487854516b636a6d485554432f67697068792e676966)
+" width="300" />
+</p>
 
 ![image alt](https://camo.githubusercontent.com/4494f9f5cba343c147c9bb009bc4556a43cc4326504cdf0d4c035a4d2ddbc212/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f68487854516b636a6d485554432f67697068792e676966)
 
