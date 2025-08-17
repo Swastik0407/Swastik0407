@@ -9,7 +9,7 @@
 
 # 💫 About Me:
 
-🌱 Currently learning Data Structures, Algorithms & Backend Development (Spring Boot)
+🌱 Currently learning Data Structures, Algorithms, Al % ML & Web Design
 
 🤖 Interested in Artificial Intelligence, Machine Learning & Software Development
 
