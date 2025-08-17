@@ -10,7 +10,7 @@
 
 
 
-<h2 align="center">✨ Hi there, I am <b>Swastik Saha</b> ✨</h2>
+<h1 align="center"> Hey, I'm <b>Swastik Saha</b>👋 </h1>
 
 
 
