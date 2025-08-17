@@ -12,6 +12,24 @@
 
 <h1 align="center"> Hey, I'm <b>Swastik Saha</b>👋 </h1>
 
+## 🦾 About Me:
+
+<table>
+  <tr>
+    <td>
+      🌱 Currently learning Data Structures, Algorithms, AI & Web Design <br>
+      🤖 Interested in Artificial Intelligence, Machine Learning & Software Development <br>
+      💻 Skilled in Python, C, C++, Java, JavaScript <br>
+      🚀 Love experimenting with projects and open-source contributions <br>
+      🎯 Goal: Build a career in AI/ML field and create solutions that matter
+    </td>
+    <td>
+      <img src="your-image.png" width="300"/>
+    </td>
+  </tr>
+</table>
+
+
 
 
 # 💫 About Me:
